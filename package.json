@@ -1,0 +1,25 @@
+{
+  "name": "researcher",
+  "version": "1.0.0",
+  "description": "Web application to help researchers stay upto date with latest research in thier field.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradPrit09/Researcher.git"
+  },
+  "keywords": [
+    "Researcher-app"
+  ],
+  "author": "Pritam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradPrit09/Researcher/issues"
+  },
+  "homepage": "https://github.com/BradPrit09/Researcher#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
